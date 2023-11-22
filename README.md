@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **nishatfarin27@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G4gMpdOD_qDfb4ymo1F5Yqf_ZnjTwstp/view?usp=sharing](https://drive.google.com/file/d/1G4gMpdOD_qDfb4ymo1F5Yqf_ZnjTwstp/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nishat-shama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishat-shama" height="30" width="40" /></a>
