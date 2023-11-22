@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat27farin&label=Profile%20views&color=0e75b6&style=flat" alt="nishat27farin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishat27farin" alt="nishat27farin" /></a> </p>
-
 - 🌱 I’m currently learning **Web Automation using Selenium Java, Agile project management methodologies and different technologies for Software Quality Assurance**
 
 - 💬 Ask me about **Software Quality Assurance, Testing Methodologies, API Testing, Performance Testing, Web Automation and so on.**
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishat27farin&show_icons=true&locale=en" alt="nishat27farin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishat27farin&" alt="nishat27farin" /></p>
-
