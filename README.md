@@ -10,7 +10,7 @@ builder. Enjoy learning new technologies and challenging concepts, and implement
 
 - 📫 How to reach me **nishatfarin27@gmail.com**
 
-- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1G4gMpdOD_qDfb4ymo1F5Yqf_ZnjTwstp/view?usp=sharing)
+- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/19fwyV6b_k8jOQA14663-FlNRqoilavme/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
