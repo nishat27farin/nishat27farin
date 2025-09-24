@@ -38,10 +38,10 @@ builder. Enjoy learning new technologies and challenging concepts, and implement
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a> 
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachejmeter/apachejmeter-original.svg" alt="jmeter" width="40" height="40"/> 
   </a> 
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/cypress-io/cypress-io-icon.svg" alt="cypress" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="cypress" width="40" height="40"/> 
   </a> 
 
   <!-- Project & Analytics Tools -->
@@ -49,13 +49,12 @@ builder. Enjoy learning new technologies and challenging concepts, and implement
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> 
   </a> 
   <a href="https://www.hotjar.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/hotjar/hotjar-icon.svg" alt="hotjar" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Hotjar_Logo.png" alt="hotjar" width="40" height="40"/> 
   </a>
   <a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Microsoft_Clarity_logo.png" alt="clarity" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Clarity_logo.png" alt="clarity" width="40" height="40"/> 
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishat27farin&show_icons=true&locale=en&layout=compact" alt="nishat27farin" /></p>
 
