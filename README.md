@@ -28,14 +28,14 @@ builder. Enjoy learning new technologies and challenging concepts, and implement
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+ <!-- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/473780/selenium.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
+  </a> -->
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter" width="40" height="40"/> 
+    <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="50" height="50"/> 
   </a> 
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" width="40" height="40"/> 
   </a> 
 
   <!-- Project & Analytics Tools -->
@@ -43,10 +43,10 @@ builder. Enjoy learning new technologies and challenging concepts, and implement
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> 
   </a> 
   <a href="https://www.hotjar.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/hotjar/hotjar-icon.svg" alt="hotjar" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpS_l-7dzFu2g6zcGRrefwn0iwvSGbp0IIVw&s" width="80" height="80"/> 
   </a>
   <a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_clarity/microsoft_clarity-icon.svg" alt="clarity" width="40" height="40"/> 
+    <img src="https://www.drupal.org/files/project-images/logo-microsoft-clarity.jpg" alt="clarity" width="80" height="80"/> 
   </a>
 </p>
 
