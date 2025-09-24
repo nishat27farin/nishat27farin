@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat27farin&label=Profile%20views&color=0e75b6&style=flat" alt="nishat27farin" /> </p>
 
-- 🌱 I’m currently learning **Web Automation using Selenium Java, Agile project management methodologies and different technologies for Software Quality Assurance**
+- 🌱 Motivated Software Quality Assurance Engineer with 2 years of progressive experience. Energetic self-starter and team
+builder. Enjoy learning new technologies and challenging concepts, and implementing them**
 
 - 💬 Ask me about **Software Quality Assurance, Testing Methodologies, API Testing, Performance Testing, Web Automation and so on.**
 
