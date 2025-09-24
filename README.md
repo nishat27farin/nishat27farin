@@ -29,7 +29,7 @@ builder. Enjoy learning new technologies and challenging concepts, and implement
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/473780/selenium.svg" alt="selenium" width="40" height="40"/> 
   </a> 
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter" width="40" height="40"/> 
