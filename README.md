@@ -1,57 +1,79 @@
-<h1 align="center">Hi 👋, I'm Nishat Shama</h1>
-<h3 align="center">A passionate Software Quality Assurance enthusiast.</h3>
+# 👋 Hello, I'm Nishat Shama  
+### 🌍 Software Quality Assurance Engineer | Automation Enthusiast | Lifelong Learner  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat27farin&label=Profile%20views&color=0e75b6&style=flat" alt="nishat27farin" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=nishat27farin&label=Profile%20views&color=0e75b6&style=flat)  
 
-- 🌱 **Motivated Software Quality Assurance Engineer with 2 years of progressive experience. Energetic self-starter and team
-builder. Enjoy learning new technologies and challenging concepts, and implementing them**
+---
 
-- 💬 Ask me about **Software Quality Assurance, Testing Methodologies, API Testing, Performance Testing, Web Automation and so on.**
+## 💡 About Me  
+- 🌱 Motivated **Software Quality Assurance Engineer** with 2+ years of hands-on experience in **manual testing, automation, API testing, and performance testing**.  
+- 🛠️ Skilled in ensuring product quality through **test planning, defect tracking, and continuous integration**.  
+- 💬 Ask me about **Testing Methodologies, API Testing, Automation (Cypress), Performance Testing, and QA Best Practices**.  
+- 🎯 Aspiring to grow as a **Test Automation Engineer**, contributing to scalable global products.  
+- 📄 [View My Resume](https://drive.google.com/file/d/19fwyV6b_k8jOQA14663-FlNRqoilavme/view?usp=drivesdk)  
 
-- 📫 How to reach me **nishatfarin27@gmail.com**
+---
 
-- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/19fwyV6b_k8jOQA14663-FlNRqoilavme/view?usp=drivesdk)
+## 🛠️ Skills & Tools  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+  <!-- Testing Tools -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
 
   <!-- Version Control -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
-  <!-- API & Testing Tools -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
- <!-- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/473780/selenium.svg" alt="selenium" width="40" height="40"/> 
-  </a> -->
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" width="40" height="40"/> 
-  </a> 
-
-  <!-- Project & Analytics Tools -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.hotjar.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpS_l-7dzFu2g6zcGRrefwn0iwvSGbp0IIVw&s" width="80" height="80"/> 
-  </a>
-  <a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.drupal.org/files/project-images/logo-microsoft-clarity.jpg" alt="clarity" width="80" height="80"/> 
-  </a>
+  <!-- Project Management -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishat27farin&show_icons=true&locale=en&layout=compact" alt="nishat27farin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishat27farin&show_icons=true&locale=en" alt="nishat27farin" /></p>
+## 📂 Projects  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishat27farin&" alt="nishat27farin" /></p>
+- 🔹 **Web Automation with Cypress** – Automated regression suite for an e-commerce platform.  
+- 🔹 **API Testing with Postman** – Designed a collection with 100+ REST API test cases.  
+- 🔹 **Performance Testing with JMeter** – Load tested a web app with 1000+ concurrent users.  
+
+---
+
+<!--## 🏆 Certifications & Achievements  
+
+- ✅ [ISTQB Certified Tester] *(add if applicable)*  
+- ✅ Completed **50+ API test scenarios** with Postman  
+- ✅ Automated **200+ test cases** using Cypress & Selenium  
+- ✅ Active contributor to **QA best practices** in Agile teams 
+
+--- -->
+
+## 📊 GitHub Stats  
+
+![Nishat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishat27farin&show_icons=true&theme=white)  
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishat27farin&layout=compact&theme=tokyonight)  -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishat27farin&theme=white)  
+
+---
+
+## 📫 Connect with Me  
+
+- 📧 Email: [nishatfarin27@gmail.com](mailto:nishatfarin27@gmail.com)  
+- 💼 LinkedIn: [[linkedin.com/in/nishatshama](https://www.linkedin.com/in/nishat-shama/)](#)  
+<!--- 🌐 Portfolio/Blog: *(add if you create one)*  -->
+
+---
+
+⭐ "Quality is never an accident; it is always the result of intelligent effort." – ![John Ruskin](https://img.shields.io/badge/John%20Ruskin-00b300?style=flat&logoColor=white)
+
+
+
+
