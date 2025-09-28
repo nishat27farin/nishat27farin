@@ -68,7 +68,7 @@
 ## 📫 Connect with Me  
 
 - 📧 Email: [nishatfarin27@gmail.com](mailto:nishatfarin27@gmail.com)  
-- 💼 LinkedIn: [[linkedin.com/in/nishatshama](https://www.linkedin.com/in/nishat-shama/)](#)  
+- 💼 LinkedIn: [[linkedin.com/in/nishatshama](https://www.linkedin.com/in/nishat-shama/)]
 <!--- 🌐 Portfolio/Blog: *(add if you create one)*  -->
 
 ---
